@@ -33,14 +33,13 @@ Defined:
 - Project documentation: To develop a clear and actionable Stakeholder Engagement Plan
 - Strategic planning: To tailor a communication strategies to ensure stakeholder alignment and satisfaction
 
+## 📌 Outcomes
+- Stakeholder Matrix (Influence vs Interest classification)
+- Stakeholder Analysis & Engagement Plan
+- Defined communication strategies, engagement methods, and interaction frequency for each stakeholder group
+
 ## 📄 Deliverables
 
 - 📊 [Stakeholder Matrix](Stakeholder_Matrix.xlsx)
 - 📘 [Stakeholder Analysis & Engagement Plan](Stakeholder_Analysis_Engagement_Plan.pdf)
 
----
-
-## 📌 Outcomes
-- Stakeholder Matrix (Influence vs Interest classification)
-- Stakeholder Analysis & Engagement Plan
-- Defined communication strategies, engagement methods, and interaction frequency for each stakeholder group
