@@ -1,0 +1,11 @@
+ResourceID,ResourceType,Availability,UsageHours,Date
+R1,Doctor,Available,8,01-01-2024
+R2,Nurse,Unavailable,0,02-01-2024
+R3,Equipment,In Use,6,03-01-2024
+R4,Room,Under Maintenance,2,04-01-2024
+R5,Technician,Available,10,05-01-2024
+R6,Doctor,Available,8,06-01-2024
+R7,Nurse,Unavailable,0,07-01-2024
+R8,Equipment,In Use,6,08-01-2024
+R9,Room,Under Maintenance,2,09-01-2024
+R10,Technician,Available,10,10-01-2024
