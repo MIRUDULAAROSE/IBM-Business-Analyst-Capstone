@@ -1,4 +1,4 @@
-# Module 2: Stakeholder Analysis
+# 📊 Module 2: Stakeholder Analysis
 
 ## 📌 Objective
 To identify stakeholders, analyze their influence and interest, and define engagement strategies aligned with project goals.
