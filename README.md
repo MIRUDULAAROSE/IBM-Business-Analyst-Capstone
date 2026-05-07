@@ -11,7 +11,9 @@ The project is structured into **7 modules**, each containing **2 projects**.
 ## 📊 Current Progress
 - ✅ Module 1: Completed 
 - 🟡 Module 2: Completed
-- ⏳ Modules 3–7: Pending
+- 🟡 Module 3: Completed
+- 🟡 Module 4: Completed
+- ⏳ Modules 5–7: Pending
 
 ## 🧩 Modules Breakdown
 
@@ -22,8 +24,14 @@ The project is structured into **7 modules**, each containing **2 projects**.
 ### Module 2: Stakeholder Analysis & Project Management
 - Stakeholder Analysis & Engagement Plan ✅
 
-### Module 3: Project Management ⏳
-### Module 4: Process Modeling ⏳  
+### Module 3: Project Management 
+- Project Scope Management
+- Work Breakdown Structure (WBS)
+### Module 4: Process Modeling 
+- Patient Appointment As-Is & To-Be Process Modeling
+- Resource Allocation As-Is & To-Be Process Modeling
+- Advanced Process Modeling: Patient Appointment BPMN & Swimlane Process Modeling
+- Advanced Process Modeling: Resource Allocation BPMN & Swimlane Process Modeling
 ### Module 5: Data Analysis & Visualization ⏳  
 ### Module 6: Risk Assessment & System Analysis ⏳  
 ### Module 7: Final Project & Presentation ⏳  
@@ -49,9 +57,21 @@ The project is structured into **7 modules**, each containing **2 projects**.
 - Built a **Stakeholder Matrix (Influence vs Interest)**
 - Developed a **Stakeholder Engagement Plan**
 
+### ✔ Project Management
+- Identified project scope
+- Built a **Project Scope Management Plan**
+- Developed a **Work Breakdown Structure**
+
+### ✔ Process Modeling
+- Analyzed Stakeholder profiles to understand roles, responsibilities and expectations.
+- Built a **As-Is and T0-Be Process Model for Patient Appointment & Resource Allocation**
+- Developed a **Advanced Process Model (BPMN & Swimlane) for Patient Appointment & Resource Allocation**
+- Created a Process Model Document
+
 ## 🛠 Tools Used
 - Microsoft Excel
 - Microsoft Word
+- LucidChart
 
 ## 🚀 Next Steps
 - Complete Project Management (Module 3)
