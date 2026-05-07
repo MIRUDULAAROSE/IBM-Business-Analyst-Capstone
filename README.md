@@ -1,5 +1,5 @@
 # IBM-Business-Analyst-Capstone
-IBM Business Analyst Capstone Project covering all modules from Requirements Gathering to Final Presentation. Completed Module 1 and currently working on Module 2, including BRD, RTM, and Stakeholder Analysis &amp; Engagement Plan.
+IBM Business Analyst Capstone Project covering all modules from Requirements Gathering to Final Presentation. Completed Module 1,2,3,4and currently working on Module 5, including BRD, RTM, Stakeholder Analysis, Engagement Plan, Project Scope Management Plan, Work Breakdown Structure, As-Is & To-Be Process Model, Advanced Process Model such as BPMN and Swimlane.
 
 # IBM Business Analyst Capstone Project
 
@@ -74,12 +74,12 @@ The project is structured into **7 modules**, each containing **2 projects**.
 - LucidChart
 
 ## 🚀 Next Steps
-- Complete Project Management (Module 3)
+- Complete Data Analysis & Visualization (Module 5)
 - Continue remaining modules
 - Update repository progressively
 
 ---
 
 ## 👩‍💻 Author
-Mirudulaa
+Mirudulaa Rose K S
 Aspiring Business Analyst
